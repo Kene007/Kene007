@@ -35,8 +35,14 @@ A full SOC environmenT(Wazuh) detecting vulnerabilities, MITRE attacks, suspicio
 ### 🔹 **CTF Writeups**
 Documented walkthroughs of TryHackMe and HackTheBox challenges using professional pentesting methodology.
 
+## 🎓 Certifications & Badges
+
+Check out my Cisco badges and certificates:  
+[View my Cisco certifications](https://www.netacad.com/profile?tab=badges)
+
+
 ### 🔹 **Web Vulnerability Research**
-Hands-on exploitation of XSS, SQL Injection, and insecure authentication using DVWA/JuiceShop.
+Hands-on exploitation of SQL Injection.
 
 ---
 
