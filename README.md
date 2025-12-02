@@ -20,6 +20,18 @@ I’m a cybersecurity learner focused on **penetration testing**, **SOC operatio
 ### 🔹 **Home SOC Lab (Wazuh + Ubuntu + Windows)**
 A full SOC environmenT(Wazuh) detecting vulnerabilities, MITRE attacks, suspicious behaviors, and Windows event logs.
 
+
+<p align="center">
+  <img src="assets/screenshots/Wazuh2.png" width="45%" />
+  <img src="assets/screenshots/Wazuh3.png" width="45%" />
+</p>
+
+<p align="center">
+  <img src="assets/screenshots/Wazuh4.png" width="45%" />
+  <img src="assets/screenshots/Wazuh5.png" width="45%" />
+</p>
+
+
 ### 🔹 **CTF Writeups**
 Documented walkthroughs of TryHackMe and HackTheBox challenges using professional pentesting methodology.
 
