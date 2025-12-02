@@ -1,10 +1,52 @@
-- 👋 Hi, I’m @Kene007
-- 👀 I’m interested in app development, cloud development, cyber security...
-- 🌱 I’m currently learning javascript.
-- 💞️ I’m looking to collaborate on digital animation.
-- 📫 How to reach me ... uzorkelechukwu@gmail.com
+# 👋 Hi, I'm Kelechukwu Uzor
 
-<!---
-Kene007/Kene007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 🔐 Cybersecurity Enthusiast | Pentesting & SOC Analyst | Home Lab Builder  
+
+I’m a cybersecurity learner focused on **penetration testing**, **SOC operations**, and building practical labs to strengthen hands-on skills (home labs for now). I enjoy solving CTFs, analyzing vulnerabilities, investigating threats, and documenting what I learn along the way.
+
+---
+
+## 🧰 SKILLS & TOOLS
+- **Pentesting:** Nmap, Burp Suite, Metasploit, Hydra  
+- **SOC / Blue Team:** Wazuh, SIEM basics  
+- **Networking:** TCP/IP, DNS, HTTP/HTTPS, Wireshark  
+- **Systems:** Linux (Kali, Ubuntu), Windows Administration  
+- **Scripting:** Bash, Python (beginner)  
+- **Labs:** VMware, VirtualBox, TryHackMe, HackTheBox  
+
+---
+
+## 📌 PROJECTS
+### 🔹 **Home SOC Lab (Wazuh + Ubuntu + Windows)**
+A full SOC environmenT(Wazuh) detecting vulnerabilities, MITRE attacks, suspicious behaviors, and Windows event logs.
+
+### 🔹 **CTF Writeups**
+Documented walkthroughs of TryHackMe and HackTheBox challenges using professional pentesting methodology.
+
+### 🔹 **Web Vulnerability Research**
+Hands-on exploitation of XSS, SQL Injection, and insecure authentication using DVWA/JuiceShop.
+
+---
+
+## 🎯 What I'm Learning Now
+- Advanced Pentesting Techniques  
+- Threat Detection Engineering  
+- Practical Malware Analysis  
+- Cloud Security (AWS Fundamentals)  
+
+---
+
+## 🔗 Connect With Me
+- **LinkedIn:** *Add your link here*  
+- **TryHackMe:** *Add your THM profile link*  
+- **HackTheBox:** *Add your HTB profile link*  
+
+---
+
+### 🚀 Goal  
+To grow into a professional **Cybersecurity Analyst / Pentester**, contribute to open-source security projects, and build a portfolio that reflects real-world skills.
+
+---
+
+### 📫 Contact  
+Feel free to reach out for collaboration, learning, or project ideas!
