@@ -1,18 +1,18 @@
 # 👋 Hi, I'm Kelechukwu Uzor
 
-### 🔐 Cybersecurity Enthusiast | Pentesting & SOC Analyst | Home Lab Builder  
+### 🔐 Cybersecurity Analyst | Pentesting & SOC Analyst | Home Lab Builder  
 
-I’m a cybersecurity learner focused on **penetration testing**, **SOC operations**, and building practical labs to strengthen hands-on skills (home labs for now). I enjoy solving CTFs, analyzing vulnerabilities, investigating threats, and documenting what I learn along the way.
+I’m an entry level Security analyst focused on **penetration testing**, **SOC operations**, and building practical labs to strengthen hands-on skills. I enjoy solving CTFs, analyzing vulnerabilities, investigating threats, and documenting my journey in Cybersecurity.
 
 ---
 
 ## 🧰 SKILLS & TOOLS
-- **Pentesting:** Nmap, Burp Suite, Metasploit, Hydra  
+- **Pentesting:** Nmap, Burp Suite, Metasploit, Hydra, John the ripper, Gobuster  
 - **SOC / Blue Team:** Wazuh, SIEM basics  
 - **Networking:** TCP/IP, DNS, HTTP/HTTPS, Wireshark  
 - **Systems:** Linux (Kali, Ubuntu), Windows Administration  
 - **Scripting:** Bash, Python (beginner)  
-- **Labs:** VMware, VirtualBox, TryHackMe, HackTheBox  
+- **Labs:** VMware, VirtualBox, TryHackMe  
 
 ---
 
@@ -32,8 +32,8 @@ A full SOC environmenT(Wazuh) detecting vulnerabilities, MITRE attacks, suspicio
 </p>
 
 
-### 🔹 **CTF Writeups**
-Documented walkthroughs of TryHackMe and HackTheBox challenges using professional pentesting methodology.
+<!-- ### 🔹 **CTF Writeups**
+Documented walkthroughs of TryHackMe and HackTheBox challenges using professional pentesting methodology.-->
 
 ## 🎓 Certifications & Badges
 
@@ -55,7 +55,7 @@ Hands-on exploitation of SQL Injection.
 ---
 
 ## 🔗 Connect With Me
-- **LinkedIn:** *Add your link here*  
+- **LinkedIn:** *https://www.linkedin.com/in/kelechukwu-uzor-498a21398/*  
 - **TryHackMe:** *Add your THM profile link*  
 - **HackTheBox:** *Add your HTB profile link*  
 
